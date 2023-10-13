@@ -1,4 +1,4 @@
-![Intro Banner](monki.jpg)
+[![MasterHead](header.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shafi Ur Rahman Khan</h1>
 <h3 align="center">A passionate Btech student from India</h3>
 <img align="right" alt="Coding" width="400" src="right.gif">
