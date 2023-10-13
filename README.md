@@ -1,10 +1,7 @@
-[![MasterHead](https://www.pxfuel.com/en/desktop-wallpaper-owodh)]
-
-
+[[!MasterHead](banner.gif)]
 <h1 align="center">Hi 👋, I'm Shafi Ur Rahman Khan</h1>
 <h3 align="center">A passionate Btech. Student from India</h3>
-
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/space-planets-aesthetic-gif-21973534">
+<img align="right" alt="Coding" width="400" src="right.gif">
 
 - 🔭 I’m currently working on [Web Dev Project](https://github.com/niraj-kumar-r/NexArtifacts)
 
